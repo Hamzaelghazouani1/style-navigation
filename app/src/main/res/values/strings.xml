@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tp3</string>
+    <string name="welcome_message">Bienvenue dans l\'application</string>
+    <string name="enter_name">Entrez votre nom</string>
+    <string name="next_screen">Aller à l\'écran suivant</string>
+    <string name="back">Retour</string>
+    <string name="hello_user">Bonjour %s</string>
+    <string name="sum">Somme</string>
+    <string name="reset">Réinitialiser</string>
+    <string name="number1">Numéro 1</string>
+    <string name="number2">Numéro 2</string>
+    <string name="result">Résultat</string>
+    <string name="my_first_app">Ma première application</string>
+</resources>
